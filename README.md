@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Bryan Andres Ramírez Márquez</h1>
-<h3 align="center">A passionate frontend developer from Colombian</h3>
+<h3 align="center">Me considero apasionado a la programación</h3>
 
 - 💬 Sobre Mi **Angular With Ionic and Firebase**
 
 - 📫 Como encontrarme **barmdmin@gmail.com**
 
-- 📄 Mis Experiencias [He realizando aplicaciones de aprendizaje de idioma ingles con ionic](He realizando aplicaciones de aprendizaje de idioma ingles con ionic)
+- 📄 Mis Experiencias He realizando aplicaciones de aprendizaje de idioma ingles con ionic, Web Scrapint y otros
 
 <h3 align="left">Encuentrame en:</h3>
 <p align="left">
