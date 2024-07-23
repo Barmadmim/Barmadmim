@@ -3,8 +3,7 @@
 
 - 💬 **Sobre Mi**
 - 
-- Soy una persona que su curiosidad le ha permitido adquirir conocimientos acerca de programación,
-- hoy 22/07/2024 tengo 17 estoy en grado 10° naci el 29 de noviembre del 2006 en Planeta Rica Cordoba-Colombia
+- Soy una persona que su curiosidad le ha permitido adquirir conocimientos acerca de programación, hoy 22/07/2024 tengo 17 estoy en grado 10° naci el 29 de noviembre del 2006 en Planeta Rica Cordoba-Colombia
 - ...
 
 - 📫 Como encontrarme **barmdmin@gmail.com**
