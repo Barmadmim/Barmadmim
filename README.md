@@ -1,7 +1,11 @@
-<h1 align="center">Hi 👋, I'm Bryan Andres Ramírez Márquez</h1>
-<h3 align="center">Me considero apasionado a la programación</h3>
+<h1 align="center">Holla 👋, soy Bryan Andres Ramírez Márquez</h1>
+<h3 align="center">Me considero apasionado por el codigo</h3>
 
-- 💬 Sobre Mi **Soy una persona con experiencia con programador freelance y muchas otras virtudes con las que cuento**
+- 💬 **Sobre Mi**
+- 
+- Soy una persona que su curiosidad le ha permitido adquirir conocimientos acerca de programación,
+- hoy 22/07/2024 tengo 17 estoy en grado 10° naci el 29 de noviembre del 2006 en Planeta Rica Cordoba-Colombia
+- ...
 
 - 📫 Como encontrarme **barmdmin@gmail.com**
 
