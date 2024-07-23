@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Bryan Andres Ramírez Márquez</h1>
 <h3 align="center">Me considero apasionado a la programación</h3>
 
-- 💬 Sobre Mi **Angular With Ionic and Firebase**
+- 💬 Sobre Mi **Soy una persona con experiencia con programador freelance y muchas otras virtudes con las que cuento**
 
 - 📫 Como encontrarme **barmdmin@gmail.com**
 
-- 📄 Mis Experiencias He realizando aplicaciones de aprendizaje de idioma ingles con ionic, Web Scrapint y otros
+- 📄 Mis Experiencias He realizando aplicaciones con ionic, Web Scrapint, manejo de Xampp, MySql, Firebases.
 
 <h3 align="left">Encuentrame en:</h3>
 <p align="left">
