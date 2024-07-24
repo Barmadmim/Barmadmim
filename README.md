@@ -2,9 +2,7 @@
 <h3 align="center">Me considero apasionado por el codigo</h3>
 
 - 💬 **Sobre Mi**
-- 
-- Soy una persona que su curiosidad le ha permitido adquirir conocimientos acerca de programación, hoy 22/07/2024 tengo 17 estoy en grado 10° naci el 29 de noviembre del 2006 en Planeta Rica Cordoba-Colombia
-- ...
+- Soy una persona que su curiosidad le ha permitido adquirir conocimientos acerca de programación, comenze con la programación en el año 2020 con html, css y javascript luego fui adquiriendo mas conocimientos acerca de esta profesion, naci el 29 de noviembre del 2006 en Planeta Rica Cordoba-Colombia
 
 - 📫 Como encontrarme **barmdmin@gmail.com**
 
