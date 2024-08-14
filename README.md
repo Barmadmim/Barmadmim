@@ -3,14 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=barmadmim&label=Profile%20views&color=0e75b6&style=flat" alt="barmadmim" /> </p>
 
-- 💬 **Sobre Mi**
+- 💬 **About me**
+
 Hello! I am a developer passionate about technology and innovation, with experience creating web and mobile applications using Ionic and Angular. I love facing complex challenges and transforming them into efficient and creative solutions. I am always looking for new ways to improve my skills and learn new technologies.
 
 My focus is on writing clean and maintainable code, prioritizing quality and user experience. I strongly believe in the power of collaboration and continuous learning, which drives me to contribute to open source projects and share my knowledge with the community.
 
 When I'm not programming, you'll find me exploring new technology tools or learning about the latest trends in software development. I'm always ready for the next challenge!
 
-- 📄 **Mis Experiencias**
+- 📄 **My Experiences**
 - I developed an educational application for learning English, implementing interactive lessons and dynamic questions similar to Duolingo.
 - I developed a virtual store website from scratch, including functionalities such as product management, shopping cart, and payment system. Unfortunately, it is a project with a lot of effort that was deleted after formatting the PC.
 - Developed an interactive website that integrates the OpenAI API to provide advanced chat functionalities, allowing users to interact with a virtual assistant.
@@ -44,26 +45,23 @@ When I'm not programming, you'll find me exploring new technology tools or learn
 
 ### Frameworks and Libraries
 
-- **Angular**: ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-- **Ionic**: ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
-- **Node.js**: ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-- **Bootstrap**: ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### Databases
 
-- **MySQL**: ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-- **Firebase**: ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### Tools and Environments
 
-- **XAMPP**: ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
-- **Git**: ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-- **Visual Studio Code**: ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-- **OpenAI API**: ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-- **GIMP**: ![GIMP](https://img.shields.io/badge/GIMP-5C5543?style=for-the-badge&logo=gimp&logoColor=white)
-- **Android Studio**: ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android%20studio&logoColor=white)
-- **Figma**: ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![GIMP](https://img.shields.io/badge/GIMP-5C5543?style=for-the-badge&logo=gimp&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android%20studio&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-
-- 📫 **Como encontrarme**
-- GMAIL: **barmdmin@gmail.com**
