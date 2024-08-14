@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=barmadmim&label=Profile%20views&color=0e75b6&style=flat" alt="barmadmim" /> </p>
 
 - 💬 **Sobre Mi**
-- Hello! I am a developer passionate about technology and innovation, with experience creating web and mobile applications using Ionic and Angular. I love facing complex challenges and transforming them into efficient and creative solutions. I am always looking for new ways to improve my skills and learn new technologies.
+Hello! I am a developer passionate about technology and innovation, with experience creating web and mobile applications using Ionic and Angular. I love facing complex challenges and transforming them into efficient and creative solutions. I am always looking for new ways to improve my skills and learn new technologies.
 
 My focus is on writing clean and maintainable code, prioritizing quality and user experience. I strongly believe in the power of collaboration and continuous learning, which drives me to contribute to open source projects and share my knowledge with the community.
 
@@ -15,21 +15,32 @@ When I'm not programming, you'll find me exploring new technology tools or learn
 - I developed a virtual store website from scratch, including functionalities such as product management, shopping cart, and payment system. Unfortunately, it is a project with a lot of effort that was deleted after formatting the PC.
 - Developed an interactive website that integrates the OpenAI API to provide advanced chat functionalities, allowing users to interact with a virtual assistant.
 
-<h3 align="left">Find me at:</h3>
+### Find me at
 <p align="left">
-<a href="https://twitter.com/barmdmin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="barmdmin" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/barmdmin-rm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="barmdmin-rm" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/barmadmim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="barmadmim" height="30" width="40" /></a>
+<a href="https://twitter.com/barmdmin" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="barmdmin" height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/barmdmin-rm" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="barmdmin-rm" height="30" width="40" />
+  </a>
+  <a href="https://www.youtube.com/c/barmadmim" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="barmadmim" height="30" width="40" />
+  </a>
+  <a href="https://github.com/barmdmin" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="barmdmin" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/barmdmin" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="barmdmin" height="30" width="40" />
+  </a>
 </p>
 
 ### Lenguages
-
-- **HTML**: ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-- **CSS**: ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-- **Sass**: ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-- **JavaScript**: ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-- **TypeScript**: ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-- **PHP**: ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### Frameworks and Libraries
 
