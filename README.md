@@ -1,6 +1,8 @@
 <h1 align="center">Hola 👋, soy Bryan Andres Ramírez Márquez</h1>
 <h3 align="center">Me considero apasionado por la programación</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=barmadmim&label=Profile%20views&color=0e75b6&style=flat" alt="barmadmim" /> </p>
+
 - 💬 **Sobre Mi**
 - Soy una persona que su curiosidad le ha permitido adquirir conocimientos acerca de programación, comenze con la programación en el año 2020 con html, css y javascript luego fui adquiriendo mas conocimientos acerca de esta profesion.
 
