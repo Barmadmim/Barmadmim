@@ -65,4 +65,7 @@ When I'm not programming, you'll find me exploring new technology tools or learn
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canvas](https://img.shields.io/badge/Canvas-003C71?style=for-the-badge&logo=canvas&logoColor=white)
+![WordPress](https://img.shields.io/badge/wordpress-004C71?style=for-the-badge&logo=wordpress&logoColor=white)
+
+
 
