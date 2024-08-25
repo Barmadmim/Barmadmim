@@ -33,12 +33,13 @@ When I'm not programming, you'll find me exploring new technology tools or learn
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
   <img src="https://img.shields.io/badge/XML-9C8E6E?style=for-the-badge&logo=xml&logoColor=white" alt="XML">
   <img src="https://img.shields.io/badge/Json-cdcdcd?style=for-the-badge&logo=Json&logoColor=black" alt="Json">
   <img src="https://img.shields.io/badge/csv-3ecf72?style=for-the-badge&logo=csv&logoColor=black" alt="Csv">
+  <img src="https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=Python" alt="Python">
 </p>
 
 ## 📚 Frameworks and Libraries
