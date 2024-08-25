@@ -33,6 +33,8 @@ When I'm not programming, you'll find me exploring new technology tools or learn
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![XML](https://img.shields.io/badge/XML-9C8E6E?style=for-the-badge&logo=xml&logoColor=white)
+![Json](https://img.shields.io/badge/Json-cdcdcd?style=for-the-badge&logo=Json&logoColor=white)
+
 
 ### Frameworks and Libraries
 
