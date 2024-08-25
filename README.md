@@ -77,6 +77,7 @@ When I'm not programming, you'll find me exploring new technology tools or learn
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
   <img src="https://img.shields.io/badge/Canvas-003C71?style=for-the-badge&logo=canvas&logoColor=white" alt="Canvas">
   <img src="https://img.shields.io/badge/wordpress-004C71?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
+  <img src="https://img.shields.io/badge/Elementor-CC6699?style=for-the-badge&logo=Elementor&logoColor=white" alt="Elementor">
 </p>
 
 
