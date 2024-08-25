@@ -38,6 +38,7 @@ When I'm not programming, you'll find me exploring new technology tools or learn
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
   <img src="https://img.shields.io/badge/XML-9C8E6E?style=for-the-badge&logo=xml&logoColor=white" alt="XML">
   <img src="https://img.shields.io/badge/Json-cdcdcd?style=for-the-badge&logo=Json&logoColor=black" alt="Json">
+  <img src="https://img.shields.io/badge/csv-3ecf72?style=for-the-badge&logo=csv&logoColor=black" alt="Csv">
 </p>
 
 ## 📚 Frameworks and Libraries
