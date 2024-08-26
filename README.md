@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bryan Andres Ramírez Márquez</h1>
 <h3 align="center">Improving the world, one commit at a time</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=barmadmim&label=Profile%20views&color=0e75b6&style=flat" alt="barmadmim" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=barmadmim&label=Profile%20views&color=ee3c08" alt="barmadmim" /> </p>
 
 ## 💬 About me
 <p align="left">
