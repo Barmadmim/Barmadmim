@@ -68,7 +68,9 @@ When I'm not programming, you'll find me exploring new technology tools or learn
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android%20studio&logoColor=white" alt="Android Studio">
   <img src="https://img.shields.io/badge/Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white" alt="Capacitor">
   <img src="https://img.shields.io/badge/fastapi-FFFFFF?style=for-the-badge&logo=fastapi&logoColor=green" alt="FastApi">
-<img src="https://img.shields.io/badge/huggingface-FFCA28?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace">
+  <img src="https://img.shields.io/badge/huggingface-FFCA28?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace">
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity">
+  <img src="https://img.shields.io/badge/ML%20Agents-FFCA28?style=for-the-badge&logo=unity&logoColor=black" alt="ML Agents">
 </p>
 
 ## 🎨 More
