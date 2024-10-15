@@ -14,11 +14,6 @@ My focus is on writing clean and maintainable code, prioritizing quality and use
 When I'm not programming, you'll find me exploring new technology tools or learning about the latest trends in software development. I'm always ready for the next challenge!
 </p>
 
-## 📄 My Experiences
-- Developed an educational application for learning English, implementing interactive lessons and dynamic questions similar to Duolingo.
-- Developed a virtual store website from scratch, including functionalities such as product management, shopping cart, and payment system.
-- Developed an interactive website that integrates the OpenAI API to provide advanced chat functionalities, allowing users to interact with a virtual assistant.
-
 ## 🌐 Find me at
 <p align="center">
   <a href="mailto:barmdmin@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
