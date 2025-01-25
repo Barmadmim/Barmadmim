@@ -5,7 +5,7 @@
 
 ## 💬 About me
 <p align="left">
-Hello! I am a developer passionate about technology and innovation, with experience creating web and mobile applications using react native and Ionic with Angular. I love facing complex challenges and transforming them into efficient and creative solutions. I am always looking for new ways to improve my skills and learn new technologies.
+Hello! I am a developer passionate about technology and innovation, with experience creating web and mobile applications using React Native and Ionic with Angular. I love facing complex challenges and transforming them into efficient and creative solutions. I am always looking for new ways to improve my skills and learn new technologies.
 </p>
 <p align="left">
 My focus is on writing clean and maintainable code, prioritizing quality and user experience. I strongly believe in the power of collaboration and continuous learning, which drives me to contribute to open source projects and share my knowledge with the community.
@@ -25,20 +25,26 @@ When I'm not programming, you'll find me exploring new technology tools or learn
 
 ## 💻 Languages
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=Python" alt="Python">
+</p>
+
+## 🌐 Markup Languages ​​and Data Formats
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass">
   <img src="https://img.shields.io/badge/XML-9C8E6E?style=for-the-badge&logo=xml&logoColor=white" alt="XML">
   <img src="https://img.shields.io/badge/Json-cdcdcd?style=for-the-badge&logo=Json&logoColor=black" alt="Json">
   <img src="https://img.shields.io/badge/csv-3ecf72?style=for-the-badge&logo=csv&logoColor=black" alt="Csv">
-  <img src="https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=Python" alt="Python">
 </p>
 
 ## 📚 Frameworks and Libraries
 <p align="center">
+  <img src="https://img.shields.io/badge/React-FFFFFF?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/React_Native-FFFFFF?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
   <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" alt="Ionic">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
@@ -47,9 +53,9 @@ When I'm not programming, you'll find me exploring new technology tools or learn
 
 ## 🗄️ Databases
 <p align="center">
+  <img src="https://img.shields.io/badge/Postgresql-FFFFFF?style=for-the-badge&logo=postgresql&logoColor=blue" alt="PostgreSql">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
-  <img src="https://img.shields.io/badge/Postgresql-FFFFFF?style=for-the-badge&logo=postgresql&logoColor=blue" alt="PostgreSql">
 </p>
 
 ## 🛠️ Tools and Environments
@@ -73,12 +79,8 @@ When I'm not programming, you'll find me exploring new technology tools or learn
 <p align="center">
   <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender">
   <img src="https://img.shields.io/badge/GIMP-5C5543?style=for-the-badge&logo=gimp&logoColor=white" alt="GIMP">
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
   <img src="https://img.shields.io/badge/Canvas-003C71?style=for-the-badge&logo=canvas&logoColor=white" alt="Canvas">
   <img src="https://img.shields.io/badge/wordpress-004C71?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
   <img src="https://img.shields.io/badge/Elementor-CC6699?style=for-the-badge&logo=Elementor&logoColor=white" alt="Elementor">
 </p>
-
-
-
