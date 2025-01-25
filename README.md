@@ -5,7 +5,7 @@
 
 ## 💬 About me
 <p align="left">
-Hello! I am a developer passionate about technology and innovation, with experience creating web and mobile applications using Ionic and Angular. I love facing complex challenges and transforming them into efficient and creative solutions. I am always looking for new ways to improve my skills and learn new technologies.
+Hello! I am a developer passionate about technology and innovation, with experience creating web and mobile applications using react native and Ionic with Angular. I love facing complex challenges and transforming them into efficient and creative solutions. I am always looking for new ways to improve my skills and learn new technologies.
 </p>
 <p align="left">
 My focus is on writing clean and maintainable code, prioritizing quality and user experience. I strongly believe in the power of collaboration and continuous learning, which drives me to contribute to open source projects and share my knowledge with the community.
