@@ -49,6 +49,7 @@ When I'm not programming, you'll find me exploring new technology tools or learn
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
+  <img src="https://img.shields.io/badge/Postgresql-FFFFFF?style=for-the-badge&logo=postgresql&logoColor=blue" alt="PostgreSql">
 </p>
 
 ## 🛠️ Tools and Environments
